@@ -1,13 +1,13 @@
-# 📦 sing-box 自用规则集 - geosite 分支
+# 📦 sing-box 自用规则集 - geoip 分支
 
-本分支用于存放基于域名的规则集。
+本分支用于存放基于 IP 地址段的规则集。
 
-## 📁 geosite/
+## 📁 geoip/
 
-用于基于域名的分流规则，适用于 sing-box 自定义 geosite 配置。
+用于 IP 层分流规则，适用于 sing-box 自定义 geoip 配置。
 
-- 文件格式：`.json` / `.srs`
-- 命名规则：`geosite-<name>.json`, `geosite-<name>.srs`
+- 文件格式：`.txt` / `.srs`
+- 命名规则：`geoip-<name>.txt`, `geoip-<name>.srs`
 
 ---
 
