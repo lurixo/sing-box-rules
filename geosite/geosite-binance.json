@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "binance.com",
+        "binance.us",
+        "binance.org",
+        "binance.me",
+        "binancefuture.com",
+        "binanceapi.com",
+        "bnbstatic.com",
+        "binancezh.com",
+        "binancezh.net",
+        "bnbzh.net",
+        "bnappzh.com",
+        "saasexch.com",
+        "yingwangtech.net",
+        "marketwebb.biz",
+        "suitechsui.red",
+        "binance.co.jp"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "binance",
+        "binanceapi",
+        "bnbchain",
+        "bnbstatic",
+        "bntrace",
+        "saasexch",
+        "yingwangtech",
+        "binancezh",
+        "bnbzh",
+        "bnappzh",
+        "marketwebb",
+        "suitechsui"
+      ]
+    }
+  ]
+}
