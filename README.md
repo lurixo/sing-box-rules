@@ -4,13 +4,11 @@
 
 ## 📁 geosite/
 
-用于域名规则集（GeoSite），例如：
-- `geosite-binance.json`
-- `geosite-*.srs`
+用于基于域名的规则集
 
 ## 📁 geoip/
 
-用于 IP 地址段规则集（GeoIP），目前留空备用。
+用于 IP 地址段的规则集。
 
 ---
 
