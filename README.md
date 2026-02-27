@@ -1,5 +1,7 @@
 <div align="center">
 
+**简体中文** | [English](README_EN.md)
+
 # 🚀 Sing-box Rules Collection
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)](https://github.com/lurixo/sing-box-rules/blob/main/LICENSE)
