@@ -48,12 +48,12 @@
 
 ### 📍 [Geosite 规则集](https://github.com/lurixo/sing-box-rules/tree/geosite)
 
-| 规则集 | 说明 | 下载 |
+| 规则集 | 说明 | 直达链接 |
 |:---:|:---:|:---:|
-| **geosite-cn** | 中国大陆站点规则（深度定制） | [JSON](https://raw.githubusercontent.com/lurixo/sing-box-rules/geosite/geosite-cn.json) / [SRS](https://raw.githubusercontent.com/lurixo/sing-box-rules/geosite/geosite-cn.srs) |
-| **geosite-private** | 私有域名规则集（已修改） | [JSON](https://raw.githubusercontent.com/lurixo/sing-box-rules/geosite/geosite-private.json) / [SRS](https://raw.githubusercontent.com/lurixo/sing-box-rules/geosite/geosite-private.srs) |
-| **geosite-cryptocurrency** | 加密货币交易所及区块链服务规则集 | [JSON](https://raw.githubusercontent.com/lurixo/sing-box-rules/geosite/geosite-cryptocurrency.json) / [SRS](https://raw.githubusercontent.com/lurixo/sing-box-rules/geosite/geosite-cryptocurrency.srs) |
-| **geosite-binance** | Binance 生态专项规则（cryptocurrency 子集） | [JSON](https://raw.githubusercontent.com/lurixo/sing-box-rules/geosite/geosite-binance.json) / [SRS](https://raw.githubusercontent.com/lurixo/sing-box-rules/geosite/geosite-binance.srs) |
+| **geosite-cn** | 中国大陆站点规则（深度定制） | [JSON](https://github.com/lurixo/sing-box-rules/raw/geosite/geosite-cn.json) / [SRS](https://github.com/lurixo/sing-box-rules/raw/geosite/geosite-cn.srs) |
+| **geosite-private** | 私有域名规则集（已修改） | [JSON](https://github.com/lurixo/sing-box-rules/raw/geosite/geosite-private.json) / [SRS](https://github.com/lurixo/sing-box-rules/raw/geosite/geosite-private.srs) |
+| **geosite-cryptocurrency** | 加密货币交易所及区块链服务规则集 | [JSON](https://github.com/lurixo/sing-box-rules/raw/geosite/geosite-cryptocurrency.json) / [SRS](https://github.com/lurixo/sing-box-rules/raw/geosite/geosite-cryptocurrency.srs) |
+| **geosite-binance** | Binance 生态专项规则（cryptocurrency 子集） | [JSON](https://github.com/lurixo/sing-box-rules/raw/geosite/geosite-binance.json) / [SRS](https://github.com/lurixo/sing-box-rules/raw/geosite/geosite-binance.srs) |
 
 <details>
 <summary><b>查看详情</b></summary>
@@ -69,7 +69,7 @@
 - Azure、CloudFlare、Samsung、Windows、V2EX、EdgeOne
 
 **加密货币类：**
-- 移除了涵盖 Binance、Coinbase、Ethereum 等主流交易所及区块链服务的 55 个关键词，已整理至 geosite-cryptocurrency 规则集，具体内容请查看 [geosite-cryptocurrency.json](https://raw.githubusercontent.com/lurixo/sing-box-rules/geosite/geosite-cryptocurrency.json)
+- 移除了涵盖 Binance、Coinbase、Ethereum 等主流交易所及区块链服务的 55 个关键词，已整理至 geosite-cryptocurrency 规则集，具体内容请查看 [geosite-cryptocurrency.json](https://github.com/lurixo/sing-box-rules/raw/geosite/geosite-cryptocurrency.json)
 
 **Bing 相关域名（完全匹配）：**
 - bing.com.cn、cn.bing.com、cn.bing.net、cn.mm.bing.net
@@ -95,10 +95,10 @@
 
 ### 📍 [GeoIP 规则集](https://github.com/lurixo/sing-box-rules/tree/geoip)
 
-| 规则集 | 说明 | 下载 |
+| 规则集 | 说明 | 直达链接 |
 |:---:|:---:|:---:|
-| **geoip-cn-ipv4** | IPv4 地址规则 | [JSON](https://raw.githubusercontent.com/lurixo/sing-box-rules/geoip/geoip-cn-ipv4.json) / [SRS](https://raw.githubusercontent.com/lurixo/sing-box-rules/geoip/geoip-cn-ipv4.srs) |
-| **geoip-cn-ipv6** | IPv6 地址规则 | [JSON](https://raw.githubusercontent.com/lurixo/sing-box-rules/geoip/geoip-cn-ipv6.json) / [SRS](https://raw.githubusercontent.com/lurixo/sing-box-rules/geoip/geoip-cn-ipv6.srs) |
+| **geoip-cn-ipv4** | IPv4 地址规则 | [JSON](https://github.com/lurixo/sing-box-rules/raw/geoip/geoip-cn-ipv4.json) / [SRS](https://github.com/lurixo/sing-box-rules/raw/geoip/geoip-cn-ipv4.srs) |
+| **geoip-cn-ipv6** | IPv6 地址规则 | [JSON](https://github.com/lurixo/sing-box-rules/raw/geoip/geoip-cn-ipv6.json) / [SRS](https://github.com/lurixo/sing-box-rules/raw/geoip/geoip-cn-ipv6.srs) |
 
 <details>
 <summary><b>查看详情</b></summary>
