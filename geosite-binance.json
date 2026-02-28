@@ -1,0 +1,35 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain_keyword": [
+        "binance",
+        "bnappzh",
+        "bnbchain",
+        "bnbstatic",
+        "bnbzh",
+        "bntrace",
+        "bscscan",
+        "bsctrace",
+        "coinmarketcap",
+        "dcellar",
+        "gopax",
+        "greenfieldscan",
+        "opbnbscan",
+        "saasexch",
+        "tokocrypto",
+        "trustwallet",
+        "wazirx"
+      ],
+      "domain_suffix": [
+        "appsflayer.com",
+        "dapp.review",
+        "dappreview.com",
+        "jex.com",
+        "nftstatic.com",
+        "swipe.io",
+        "yzilabs.io"
+      ]
+    }
+  ]
+}
